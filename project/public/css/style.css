@@ -1,0 +1,14 @@
+#footer{
+    margin-top: 20px;
+    padding-top: 10px;
+    color: #fff;
+    background-color: #2780E3;
+}
+#footer p{
+    margin-bottom: 0px;
+}
+
+div,#form{
+    width: 300px;
+    background-color: red;
+}
